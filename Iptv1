@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1, abscbn
+http://195.154.108.53:5432/gwat/acn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDE5IDY6MTA6MzkgUE0maGFzaF92YWx1ZT1hdXVrN01nYmpwRGRnZ0NoNVRPampRPT0mdmFsaWRtaW51dGVzPTI=
